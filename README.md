@@ -7,7 +7,7 @@ This Java project solves the following exercise:
 
 "Create a class that alphabetically lists the contents of a directory received by parameter".
 
-The goal is to **practice file handling** and **directory manipulation** in Java, focusing on reading and organizing file system data. .
+The goal is to **practice file handling** and **directory manipulation** in Java, focusing on reading and organizing file system data. 
 
 
 ## Technologies used 💻
